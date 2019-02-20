@@ -3,7 +3,8 @@
 To run:
 
 - install node.js
-- in terminal: 
+- in terminal:
 	- npm install
-  - npm download-data
+	- make sure you have homebrew and wget installed
+  - npm run download-data
 	- npm start
